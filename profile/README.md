@@ -7,7 +7,7 @@
   Simple, yet powerful Web- & Product Analytics.
   <br />
   <br />
-  <a href="https:/vemetric.com">Website</a>
+  <a href="https://vemetric.com">Website</a>
   ·
   <a href="https://vemetric.com/docs">Documentation</a>
 </p>
